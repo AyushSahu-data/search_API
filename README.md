@@ -3,7 +3,7 @@
 <b>Instructions to deploy:</b><ul>
 <li>Open the terminal using "ctrl+shift+`" </li>
 <li>use the command "git clone https://github.com/AyushSahu-data/search_API" to clone the repository to desktop.</li> 
-<li>change the directory with "cd search_API".</li>change the directory with "cd search_API".
+<li>change the directory with "cd search_API".</li>
 <li>install the npm packages using command "npm i"</li>
 <li>go to backend folder by "cd backend"</li>
 <li>now type "npm start"</li>
