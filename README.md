@@ -11,7 +11,7 @@
 <li>now search for research papers and click the headlines to fetch the contents.</li>
 </ul>
 
-Example pics:
+<b><u>Example pics:</b></u>
 
 ![Screenshot (218)](https://github.com/AyushSahu-data/search_API/assets/108819001/c8d937a8-25a8-456e-a269-7923a63b8972)
 
