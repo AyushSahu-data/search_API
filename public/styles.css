@@ -1,0 +1,64 @@
+/* public/styles.css */
+
+/* Style the main container */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: #007bff;
+    color: white;
+}
+
+/* Style the search input and button */
+#researchTopic {
+    width: 80%;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Style search results container */
+#searchResults {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Style individual search results */
+.result {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.result:hover {
+    background-color: #f5f5f5;
+}
+
+/* Style the complete content container */
+#content {
+    display: none; /* Initially hidden */
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+}
